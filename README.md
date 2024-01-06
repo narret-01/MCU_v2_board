@@ -1,7 +1,7 @@
 
 ![Image alt](https://github.com/narret-01/MCU_v2_board/blob/master/docs/mcu_v2_bord_render.png)
 
-This is a EagleCadc board project of Main Control Unit for EMP Project. 
+Main Control Unit for EMP Project. 
 It's 4 Layer board, wich have:
  - GOWIN GW1NR-9V FPGA
  - STM32G431 microcontoller
