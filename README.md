@@ -1,4 +1,5 @@
-#Main Description
+
+![Image alt](https://github.com/narret-01/MCU_v2_board/blob/master/docs/mcu_v2_schematic.png)
 
 This is a EagleCadc board project of Main Control Unit for EMP Project. 
 It's 4 Layer board, wich have:
